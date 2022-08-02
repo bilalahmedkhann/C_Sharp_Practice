@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\bin\Debug\net5.0\Calculator.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\obj\Debug\net5.0\refint\Calculator.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\obj\Debug\net5.0\Calculator.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Calculator\obj\Debug\net5.0\ref\Calculator.dll

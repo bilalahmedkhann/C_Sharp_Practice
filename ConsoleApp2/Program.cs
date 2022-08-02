@@ -19,7 +19,7 @@ namespace ConsoleApp2
             Console.WriteLine("What is your age: ");
             int age = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Hello "+name+", How are you? and your age is "+ age);
+            Console.WriteLine("Hello "+name+", How are you? and Your age is "+ age);
 
          }
     }
