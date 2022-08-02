@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\bin\Debug\net5.0\HelloWorldd.exe
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\bin\Debug\net5.0\HelloWorldd.deps.json
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\bin\Debug\net5.0\HelloWorldd.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\bin\Debug\net5.0\HelloWorldd.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\bin\Debug\net5.0\HelloWorldd.dll
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\bin\Debug\net5.0\HelloWorldd.pdb
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\obj\Debug\net5.0\HelloWorldd.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\obj\Debug\net5.0\HelloWorldd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\obj\Debug\net5.0\HelloWorldd.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\obj\Debug\net5.0\HelloWorldd.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\obj\Debug\net5.0\HelloWorldd.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\obj\Debug\net5.0\HelloWorldd.dll
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\obj\Debug\net5.0\refint\HelloWorldd.dll
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\obj\Debug\net5.0\HelloWorldd.pdb
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\obj\Debug\net5.0\HelloWorldd.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\source\repos\HelloWorldd\obj\Debug\net5.0\ref\HelloWorldd.dll
