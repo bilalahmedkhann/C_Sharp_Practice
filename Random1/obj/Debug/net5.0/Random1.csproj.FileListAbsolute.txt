@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\bin\Debug\net5.0\Random1.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\bin\Debug\net5.0\Random1.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\bin\Debug\net5.0\Random1.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\bin\Debug\net5.0\Random1.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\bin\Debug\net5.0\Random1.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\bin\Debug\net5.0\Random1.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\obj\Debug\net5.0\Random1.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\obj\Debug\net5.0\Random1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\obj\Debug\net5.0\Random1.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\obj\Debug\net5.0\Random1.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\obj\Debug\net5.0\Random1.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\obj\Debug\net5.0\Random1.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\obj\Debug\net5.0\refint\Random1.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\obj\Debug\net5.0\Random1.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\obj\Debug\net5.0\Random1.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Random1\obj\Debug\net5.0\ref\Random1.dll

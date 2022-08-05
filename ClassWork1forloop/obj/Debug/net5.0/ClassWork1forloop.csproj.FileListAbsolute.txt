@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\bin\Debug\net5.0\ClassWork1forloop.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\bin\Debug\net5.0\ClassWork1forloop.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\bin\Debug\net5.0\ClassWork1forloop.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\bin\Debug\net5.0\ClassWork1forloop.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\bin\Debug\net5.0\ClassWork1forloop.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\bin\Debug\net5.0\ClassWork1forloop.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\obj\Debug\net5.0\ClassWork1forloop.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\obj\Debug\net5.0\ClassWork1forloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\obj\Debug\net5.0\ClassWork1forloop.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\obj\Debug\net5.0\ClassWork1forloop.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\obj\Debug\net5.0\ClassWork1forloop.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\obj\Debug\net5.0\ClassWork1forloop.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\obj\Debug\net5.0\refint\ClassWork1forloop.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\obj\Debug\net5.0\ClassWork1forloop.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\obj\Debug\net5.0\ClassWork1forloop.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWork1forloop\obj\Debug\net5.0\ref\ClassWork1forloop.dll

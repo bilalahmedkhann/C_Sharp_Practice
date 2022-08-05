@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\bin\Debug\net5.0\EmpWageLoop.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\bin\Debug\net5.0\EmpWageLoop.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\bin\Debug\net5.0\EmpWageLoop.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\bin\Debug\net5.0\EmpWageLoop.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\bin\Debug\net5.0\EmpWageLoop.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\bin\Debug\net5.0\EmpWageLoop.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\obj\Debug\net5.0\EmpWageLoop.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\obj\Debug\net5.0\EmpWageLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\obj\Debug\net5.0\EmpWageLoop.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\obj\Debug\net5.0\EmpWageLoop.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\obj\Debug\net5.0\EmpWageLoop.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\obj\Debug\net5.0\EmpWageLoop.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\obj\Debug\net5.0\refint\EmpWageLoop.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\obj\Debug\net5.0\EmpWageLoop.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\obj\Debug\net5.0\EmpWageLoop.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\EmpWageLoop\obj\Debug\net5.0\ref\EmpWageLoop.dll

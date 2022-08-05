@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\obj\Debug\net5.0\ClassWorkNestedLoop.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\obj\Debug\net5.0\ClassWorkNestedLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\obj\Debug\net5.0\ClassWorkNestedLoop.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\obj\Debug\net5.0\ClassWorkNestedLoop.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\obj\Debug\net5.0\ClassWorkNestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\bin\Debug\net5.0\ClassWorkNestedLoop.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\bin\Debug\net5.0\ClassWorkNestedLoop.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\bin\Debug\net5.0\ClassWorkNestedLoop.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\bin\Debug\net5.0\ClassWorkNestedLoop.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\bin\Debug\net5.0\ClassWorkNestedLoop.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\bin\Debug\net5.0\ClassWorkNestedLoop.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\obj\Debug\net5.0\ClassWorkNestedLoop.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\obj\Debug\net5.0\refint\ClassWorkNestedLoop.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\obj\Debug\net5.0\ClassWorkNestedLoop.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\obj\Debug\net5.0\ClassWorkNestedLoop.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\ClassWorkNestedLoop\obj\Debug\net5.0\ref\ClassWorkNestedLoop.dll

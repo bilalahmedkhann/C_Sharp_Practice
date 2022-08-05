@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\bin\Debug\net5.0\PartTimeEmployeeWageSwitch.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\bin\Debug\net5.0\PartTimeEmployeeWageSwitch.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\bin\Debug\net5.0\PartTimeEmployeeWageSwitch.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\bin\Debug\net5.0\PartTimeEmployeeWageSwitch.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\bin\Debug\net5.0\PartTimeEmployeeWageSwitch.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\bin\Debug\net5.0\PartTimeEmployeeWageSwitch.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\obj\Debug\net5.0\PartTimeEmployeeWageSwitch.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\obj\Debug\net5.0\PartTimeEmployeeWageSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\obj\Debug\net5.0\PartTimeEmployeeWageSwitch.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\obj\Debug\net5.0\PartTimeEmployeeWageSwitch.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\obj\Debug\net5.0\PartTimeEmployeeWageSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\obj\Debug\net5.0\PartTimeEmployeeWageSwitch.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\obj\Debug\net5.0\refint\PartTimeEmployeeWageSwitch.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\obj\Debug\net5.0\PartTimeEmployeeWageSwitch.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\obj\Debug\net5.0\PartTimeEmployeeWageSwitch.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PartTimeEmployeeWageSwitch\obj\Debug\net5.0\ref\PartTimeEmployeeWageSwitch.dll
